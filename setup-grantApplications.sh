@@ -46,7 +46,7 @@ This script works with both bash and zsh.
 Please git clone the Overleaf project to the subfolder 'ov'.
 Below are the descriptions of the subfolders for this project.
 
-a abstract
+* abstract
 * appendices
 * biosketches: including Other Support
 * budget: includes the Excel form
